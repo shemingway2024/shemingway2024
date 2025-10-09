@@ -1,4 +1,5 @@
-## Hi there 👋
+## My name is Sam Hemingway
+I'm just trying this out, and I'll probably come back later to work on this more
 
 <!--
 **shemingway2024/shemingway2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
