@@ -1,5 +1,5 @@
 ## My name is Sam Hemingway
-I'm just trying this out, and I'll probably come back later to work on this more
+I'm a student at Florida Institute of Technology (FIT) studying Electrical Engineering. Currently, I'm a part of the 2025-26 Panther Lunabotics team as the Electrical team lead. I'm learning a ton about system design, and we're doing a lot of work with KiCad and utilizing GitHub to share out KiCad files. It's a lotta fun :)
 
 <!--
 **shemingway2024/shemingway2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
